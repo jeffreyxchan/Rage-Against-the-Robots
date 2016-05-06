@@ -1,8 +1,6 @@
 # Rage-Against-the-Robots
 ## Description
-It's a very simple game coded in C++. I originally started this project in Fall 2015; the
-state it's in now is a result of adding a new feature to it during Winter 2016. At the time
-I was assigned this project, we had just learned about classes and structs. In order to
+It's a very simple game coded in C++. In order to
 complete this project, we were given a code skeleton and tasked to finish implementing all
 the functions within the skeleton. This final project tested our abilities to understand
 and implement functions of certain classes in order to create a simple yet entertaining game.

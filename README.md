@@ -1,5 +1,5 @@
 # Rage-Against-the-Robots
-### Description
+## Description
 A console game coded in C++. The player is placed within an arena along with a swarm of evil robots.
 The player must avoid and destroy all the robots in order to claim victory.
 
@@ -24,6 +24,3 @@ h   - Check your kill history. Robots that have died will be represented by an a
 q   - Prematurely quit the game  
 [Enter] - Do nothing
 </pre>
-
-### Screenshots
-![alt text](https://github.com/jeffreyxchan/Rage-Against-the-Robots/raw/master/machines.png "Rage Against the Robots")
